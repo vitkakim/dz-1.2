@@ -1,0 +1,8 @@
+Thumbs.db
+
+.DS.Store
+
+temp/
+
+*old
+*backup
