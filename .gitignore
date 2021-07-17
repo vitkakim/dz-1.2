@@ -1,8 +1,8 @@
 Thumbs.db
 
-.DS.Store
+.DS_Store
 
-temp/
+tmp/
 
 *old
 *backup
